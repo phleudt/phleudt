@@ -1,6 +1,6 @@
 ## Phleudt
 
-Computer Science (HU Berlin) | Systems & Backend Engineering
+**Systems Engineering & Backend Infrastructure** 
 📍 Berlin, Germany | 🎓 CS @ HU Berlin
 
 Currently focused on distributed systems, infrastructure tooling, and OS-level concepts. Operating primarily in Go, C, and Python with a strong emphasis on Linux internals, concurrency and performance optimization.
