@@ -27,4 +27,4 @@ A temporal PageRank algorithm variant designed to process unstructured Wikipedia
 
 ## Contact
 * [LinkedIn](https://linkedin.com/in/yourprofile)
-* [Email Address](floyd.wollert@gmail.com)
+* [Email Address](phleudt@protonmail.com)
