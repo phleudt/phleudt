@@ -1,16 +1,30 @@
-## Hi there 👋
+## Phleudt
 
-<!--
-**phleudt/phleudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (HU Berlin) | Systems & Backend Engineering
+📍 Berlin, Germany | 🎓 CS @ HU Berlin
 
-Here are some ideas to get you started:
+Currently focused on distributed systems, infrastructure tooling, and OS-level concepts. Operating primarily in Go, C, and Python with a strong emphasis on Linux internals, concurrency and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+* **Backend & Tooling @ PLAION:** Engineering central Identity & Access Management (IAM) services and stateless microservices (FastAPI, JWT, Docker, GCP).
+* **Systems Architecture:** Deepening knowledge in POSIX APIs, memory hierarchies, and network programming.
+* **Algorithm Design:** Ongoing complexity analysis and pattern recognition (NeetCode 150).
+* 
+## Core Stack
+* **Languages:** Go, C, Python, SQL, Bash
+* **Systems & Infra:** Linux Internals, Docker, Networking (TCP/IP), OS Concepts
+* **Architecture:** Distributed Systems, Microservices, REST, JWT/S2S Authentication
+
+## Projects
+
+### [Cache-Simulator](Link-to-repo)
+*C, Computer Architecture, Systems Design*
+A write-back cache simulator utilizing write-allocate policies and LRU eviction. Used to profile architecture metrics by evaluating real-world memory traces (e.g., GCC), analyzing hardware-level behavior including CPI, hit rates, and write-back penalties.
+
+### [Wikipedia-PageRank](Link-to-repo)
+*Python, Memory Optimization, Graph Algorithms*
+A temporal PageRank algorithm variant designed to process unstructured Wikipedia data dumps. Optimized for algorithmic runtime and RAM footprint reduction to efficiently process massive graph structures (33 GB) in memory-constrained environments.
+
+## Contact
+* [LinkedIn](https://linkedin.com/in/yourprofile)
+* [Email Address](floyd.wollert@gmail.com)
